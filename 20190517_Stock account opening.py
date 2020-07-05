@@ -1,7 +1,7 @@
 # _*_ coding:utf-8 _*_
 # 作者：Administrator
 # 时间：2020/7/1 21:21
-# 文件名：Stock account opening.py
+# 文件名：20190517_Stock account opening.py
 # 开发工具：PyCharm
 
 from appium import webdriver
